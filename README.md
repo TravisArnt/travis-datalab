@@ -5,7 +5,7 @@ Each project demonstrates practical applications of data cleaning, statistical a
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### 1. [Well-Being Survey EDA](./01-well-being-survey-EDA)
 Exploratory analysis of survey data examining the relationships between **lifestyle habits, stress, and overall well-being**.  
@@ -17,11 +17,11 @@ Covers data preprocessing, model training (Logistic Regression, Random Forest), 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 Python • pandas • NumPy • seaborn • matplotlib • scikit-learn
 
 ---
 
-## 📄 About
+## About
 This repository showcases data science workflow best practices—from raw data exploration to interpretable machine learning.  
 All notebooks are executed and rendered for viewing directly on GitHub.
